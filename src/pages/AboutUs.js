@@ -22,7 +22,7 @@ const AboutUs = () => {
             </p>
           </div>
           <div className="about-us-infographic">
-            <img src="images/infographics.jpg" alt="Our Journey Infographic" className="img-fluid" />
+            <img src={`${process.env.PUBLIC_URL}/images/infographics.jpg`} alt="Our Journey Infographic" className="img-fluid" />
           </div>
         </section>
       </div>

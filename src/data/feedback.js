@@ -4,14 +4,14 @@ export const feedback = [
       name: 'Naveen',
       caption: 'Great coffee!',
       description: 'I love the variety of coffees available at Bean and Brew Cafe. The service is excellent too!',
-      image: '/images/Customerfeedback2.jpeg',
+      image: `${process.env.PUBLIC_URL}/images/Customerfeedback2.jpeg`,
     },
     {
       id: 2,
       name: 'Rajesh',
       caption: 'Amazing ambiance!',
       description: 'The ambiance at Bean and Brew Cafe is perfect for a relaxing coffee break. Highly recommend!',
-      image: '/images/Customerfeedback3.jpeg',
+      image: `${process.env.PUBLIC_URL}/images/Customerfeedback3.jpeg`,
     },
 
     {
@@ -19,7 +19,7 @@ export const feedback = [
         name: 'Ifechukwu Aroh',
         caption: 'Amazing ambiance!',
         description: 'The ambiance at Bean and Brew Cafe is perfect for a relaxing coffee break. Highly recommend!',
-        image: '/images/Customerfeedback1.jpeg',
+        image: `${process.env.PUBLIC_URL}/images/Customerfeedback1.jpeg`,
       },
     // Add more feedback as needed
   ];

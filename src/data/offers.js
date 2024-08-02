@@ -3,27 +3,27 @@ export const offers = [
       id: 1,
       name: 'Latte',
       price: '$4.99',
-      image: '/images/coffeetype.jpg',
+      image: `${process.env.PUBLIC_URL}/images/coffeetype.jpg`,
     },
     {
       id: 2,
       name: 'Cappuccino',
       price: '$5.49',
-      image: '/images/scrollingbanner6.jpeg',
+      image: `${process.env.PUBLIC_URL}/images/scrollingbanner6.jpeg`,
     },
 
     {
         id: 2,
         name: 'Cappuccino',
         price: '$5.49',
-        image: '/images/scrollingbanner10.jpeg',
+        image: `${process.env.PUBLIC_URL}/images/scrollingbanner10.jpeg`,
       },
 
       {
         id: 2,
         name: 'Cappuccino',
         price: '$5.49',
-        image: '/images/scrollingbanner2.jpeg',
+        image: `${process.env.PUBLIC_URL}/images/scrollingbanner2.jpeg`,
       },
 
 
@@ -31,7 +31,7 @@ export const offers = [
         id: 2,
         name: 'Cappuccino',
         price: '$5.49',
-        image: '/images/scrollingbanner4.jpeg',
+        image: `${process.env.PUBLIC_URL}/images/scrollingbanner4.jpeg`,
       },
 
 
