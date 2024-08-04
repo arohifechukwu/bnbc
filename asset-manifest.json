@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/arohifechukwu/bnbc.git/static/css/main.c9180993.css",
-    "main.js": "/arohifechukwu/bnbc.git/static/js/main.af9a57fa.js",
-    "static/media/ife5.jpeg": "/arohifechukwu/bnbc.git/static/media/ife5.2461c9e05b53837df6fe.jpeg",
-    "static/media/ife6.jpeg": "/arohifechukwu/bnbc.git/static/media/ife6.4759cab4c18debcb5842.jpeg",
-    "static/media/ife4.jpeg": "/arohifechukwu/bnbc.git/static/media/ife4.4f8e88244bb1de5db15f.jpeg",
-    "static/media/banner.jpg": "/arohifechukwu/bnbc.git/static/media/banner.141144809b9b1593095a.jpg",
-    "static/media/ife3.jpeg": "/arohifechukwu/bnbc.git/static/media/ife3.f5ce26d4934390ccfa9b.jpeg",
-    "static/media/ife1.jpeg": "/arohifechukwu/bnbc.git/static/media/ife1.b243fbb431a8baefd1f5.jpeg",
-    "static/media/ife2.jpeg": "/arohifechukwu/bnbc.git/static/media/ife2.0bce9b37e637bf259699.jpeg",
-    "index.html": "/arohifechukwu/bnbc.git/index.html",
-    "main.c9180993.css.map": "/arohifechukwu/bnbc.git/static/css/main.c9180993.css.map",
-    "main.af9a57fa.js.map": "/arohifechukwu/bnbc.git/static/js/main.af9a57fa.js.map"
+    "main.css": "/bnbcapp/static/css/main.8d20f856.css",
+    "main.js": "/bnbcapp/static/js/main.b08f7992.js",
+    "static/media/ife5.jpeg": "/bnbcapp/static/media/ife5.2461c9e05b53837df6fe.jpeg",
+    "static/media/ife6.jpeg": "/bnbcapp/static/media/ife6.4759cab4c18debcb5842.jpeg",
+    "static/media/ife4.jpeg": "/bnbcapp/static/media/ife4.4f8e88244bb1de5db15f.jpeg",
+    "static/media/banner.jpg": "/bnbcapp/static/media/banner.141144809b9b1593095a.jpg",
+    "static/media/ife3.jpeg": "/bnbcapp/static/media/ife3.f5ce26d4934390ccfa9b.jpeg",
+    "static/media/ife1.jpeg": "/bnbcapp/static/media/ife1.b243fbb431a8baefd1f5.jpeg",
+    "static/media/ife2.jpeg": "/bnbcapp/static/media/ife2.0bce9b37e637bf259699.jpeg",
+    "index.html": "/bnbcapp/index.html",
+    "main.8d20f856.css.map": "/bnbcapp/static/css/main.8d20f856.css.map",
+    "main.b08f7992.js.map": "/bnbcapp/static/js/main.b08f7992.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9180993.css",
-    "static/js/main.af9a57fa.js"
+    "static/css/main.8d20f856.css",
+    "static/js/main.b08f7992.js"
   ]
 }
